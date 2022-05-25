@@ -2,12 +2,15 @@
 1-List the current files
 2-Go to home directory
 3-List files in long format
-4-
-5-
-6-
-7-
-8-
-9-
-10-
-11-
-
+4-List more files
+5- display current directory content
+6- Creates a directory in tmp folder
+7- Move bety file from tmp directory
+8- delete betty
+9-Delete my first directory
+10- change working directory to the first one
+11- List files in current directory in long format
+12-Prints Type of file
+13- Craete symbolic link
+14- Copy HTML files
+15

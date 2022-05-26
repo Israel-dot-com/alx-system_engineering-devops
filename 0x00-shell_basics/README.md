@@ -13,4 +13,8 @@
 12-Prints Type of file
 13- Craete symbolic link
 14- Copy HTML files
-15-  
+15- Moved files
+16: Deleted all ~ files
+17: Create a chain of directories
+18: Format your list of directories
+19: MAGIC FILE. oof.

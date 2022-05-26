@@ -17,4 +17,4 @@
 16: Deleted all ~ files
 17: Create a chain of directories
 18: Format your list of directories
-19: MAGIC FILE. oof.
+19: MAGIC FILE. oofff.

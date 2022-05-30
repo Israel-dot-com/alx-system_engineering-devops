@@ -1,2 +1,1 @@
-Hi there, i am learning I/O Redirections
-
+Hi there, i am learning I/O Redirections .

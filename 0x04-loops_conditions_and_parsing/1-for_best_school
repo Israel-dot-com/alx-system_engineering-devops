@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Display "Best Schhol Ten times"
+best='Best School'
+for (( i=0; i<=9; i++ )); do echo "$best" ; done

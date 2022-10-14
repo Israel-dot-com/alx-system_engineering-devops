@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#Content of etc/passwd with while loop
+
+while read -r passwd; do
+  echo "$passwd" | cut -d ':' -f1,3,6
+done < "/etc/passwd"

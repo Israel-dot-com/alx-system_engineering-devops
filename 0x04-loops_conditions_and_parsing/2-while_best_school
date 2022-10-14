@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Echo Best school but with while loop
+i=0
+while [[ $i -le 9 ]] ; do
+    echo "Best School"
+    (( i +=1 ))
+done
+

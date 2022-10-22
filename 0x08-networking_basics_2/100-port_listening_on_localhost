@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Local host capturing port 98
+
+nc -l localhost 98

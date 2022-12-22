@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 # Configures server
+# localhost now points to to 127.0.0.2
+# facebook.com now points to 8.8.8.8
 
 cp /etc/hosts ~/hosts.new
 echo "127.0.0.2		localhost" > ~/hosts.new
